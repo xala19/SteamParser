@@ -1,0 +1,11 @@
+{
+    "parse count" : "10",
+	"minimal wear" : "0.07-0.08",
+	"factory new" : "0-0.001",
+	"well-worn" : "0.35-0.38",
+	"field-tested" : "0.15-0.17",
+	"battle_scared" : "0.45-0.48",
+	"min_price_for_skins" : 1,
+	"max_price_for_skins" : 100000,
+	"min_lots" : 10 
+}
